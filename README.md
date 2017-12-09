@@ -14,4 +14,4 @@ Criterias that are taken into consideration:
 
 **Credits:**
 
-This project is a part of *Android for Beginners* course at _**[Udacity](udacity.com)**_.
+This project is a part of *Android for Beginners* course at _**[Udacity](https://www.udacity.com)**_.
