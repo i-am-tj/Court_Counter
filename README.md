@@ -1,4 +1,4 @@
-##Court Counter##
+## Court Counter
 
 A simple app that calculates the score of the teams simultaneously while a basketball match is being played.
 
