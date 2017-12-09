@@ -1,4 +1,4 @@
-##Court Counter
+##Court Counter##
 
 A simple app that calculates the score of the teams simultaneously while a basketball match is being played.
 
@@ -14,4 +14,4 @@ Criterias that are taken into consideration:
 
 **Credits:**
 
-This project is a part of *Android for Beginners* course at _**[Udacity](udacity.com)**_.  
+This project is a part of *Android for Beginners* course at _**[Udacity](udacity.com)**_.
